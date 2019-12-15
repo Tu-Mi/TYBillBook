@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etDescribe" type="id" />
+    <item name="etCount" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="tvInfo" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnList" type="id" />
+    <item name="radioOut" type="id" />
+    <item name="radioIn" type="id" />
+    <item name="list_view" type="id" />
+    <item name="updata" type="id" />
+</resources>
